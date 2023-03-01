@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  column-gap: 17px;
+  flex-wrap: wrap;
+  padding-left: 200px;
+  padding-top: 135px;
+}
+.card1 {
+    height: 219px;
+    width: 354px;
+    left: 301px;
+    top: 90px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.card2 {
+height: 219px;
+width: 354px;
+left: -70px;
+top: 329px;
+border: 1px solid;
+border-radius: 5px;
+}
+
+.card3 {
+height: 219px;
+width: 354px;
+left: -441px;
+top: 329px;
+border-radius: 5px;
+border: 1px solid;
+}
+
+.card4 {
+height: 219px;
+width: 354px;
+left: 301px;
+top: 90px;
+border-radius: 5px;
+border: 1px solid;
+}
+
+.card5 {
+    height: 219px;
+    width: 354px;
+    left: -70px;
+    top: 90px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+.card6 {
+    height: 219px;
+    width: 354px;
+    left: -441px;
+    top: 90px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+ .card1-header, .card2-header, .card3-header, .card4-header, .card5-header, .card6-header {
+    width: 354px;
+    height: 45px;
+ }
+
+ .card1-header, .card2-header {
+    background: #16BF26;
+ }
+
+ .card3-header, .card4-header {
+    background: #BF1616;
+ }
+
+ .card5-header, .card6-header {
+    background: #163BBF;
+
+ }
+ .card-header-text {
+    text-align: left;
+    margin-left: 28px;
+    font-family: 'Inconsolata', monospace;
+    padding-top: 10px;
+    line-height: 21px;
+    font-size: 16px;
+    color: white;
+ }
+
+ .card-body {
+   width: 298px;
+   height: 108px;
+ }
+
+ .card-body-text {
+   text-align: left;
+    margin-left: 28px;
+    font-family: 'Inconsolata', monospace;
+    padding-top: 10px;
+    line-height: 18.37px;
+    font-size: 14px;
+    color: black;
+ }
+
+ .btn1, .btn2, .btn3 {
+   width: 100px;
+   height: 40px;
+   margin-left: 244px;
+   border-radius: 5px;
+   
+ }
+
+ .btn1 {
+   background: #23FF39;
+ }
+
+ .btn2 {
+   background: #FF2626;
+ }
+
+ .btn3 {
+   background: #3858FF;
+ }
+
+ .btn-text {
+   font-family: 'Inconsolata', monospace;
+   font-style: normal;
+   font-size: 16px;
+   line-height: 21px;
+   padding-top: 10px;
+   text-align: center;
+   font-weight: 400;
+   color: #FFFFFF;
+ }
+
+
+    
+
+      
+
+
